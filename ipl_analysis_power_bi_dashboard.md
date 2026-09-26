@@ -83,7 +83,7 @@ RETURN MAXX(TopScorer, ball_by_ball_data[batter])
 
 1. Clone or download this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/ipl-analysis-powerbi.git
+   git clone https://github.com/github.com/Vivek-Gupta-7/ipl-analysis-powerbi.git
    ```
 2. Download and install [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Open the `.pbix` file included in the repository.
